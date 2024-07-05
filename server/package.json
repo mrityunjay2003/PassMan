@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A password Manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"password\"",
+    "\"manager\""
+  ],
+  "author": "Mrityunjay Mishra",
+  "license": "MIT"
+}
